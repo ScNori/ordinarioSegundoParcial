@@ -1,0 +1,11 @@
+.menu{
+    width: 100%;
+    border: 2px solid black;
+    border-collapse: collapse;
+    height: 50px;
+    background-color: rgb(226, 155, 0);
+} 
+.menu td{
+    text-align: center;
+    border: 2px solid black;
+}
